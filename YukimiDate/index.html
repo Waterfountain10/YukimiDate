@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask Yukimi Out</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="big-flex">
+        <div id="initialContent">
+            <button id="helloButton">Hello Yukimi</button>
+        </div>
+
+        <div id="newContent" class="hidden">
+            <div class="container">
+                <img src="yukimi_photo.png" alt="Yukimi's Photo" class="photo">
+                <div class="text-bubble">
+                    <p id="typedText"></p>
+                </div>
+                <div id="responseButtons">
+                    <button class="response-button" id="yesButton">Yes</button>
+                    <button class="response-button runaway" id="noButton">No</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="finalContent" class="hidden">
+            <div class="container">
+                <img src="yay_photo.png" alt="Yay Photo" class="photo2">
+                <div class="text-bubble">
+                    <p id="finalText">Yay!!!</p>
+                    <br>
+                    <p id="finalText">Time: 11am to 4pm </p>
+                    <br>
+                    <p id="finalText">Location: Parc Jarry?? Jeanne Mance?</p>
+                    <p id="finalText">honestly anywhere is fine with you!</p></p>
+                    <br>
+                    <p id="finalText"> I will bring truth or drink.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
