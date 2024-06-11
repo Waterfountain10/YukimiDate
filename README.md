@@ -21,4 +21,4 @@ This is a simple and charming website created to invite my friend Yukimi on a pi
 
 ## Author
 
-This website was created by William (Me) as a heartfelt invitation for Yukimi.
+This website was created as a genuine date invitation (it worked).
