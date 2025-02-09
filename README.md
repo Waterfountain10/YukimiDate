@@ -2,6 +2,8 @@
 
 This is a simple and charming website created to invite my friend Yukimi on a picnic date haha. The website is designed using HTML, CSS, and JavaScript to make the invitation special and engaging.
 
+Edit: she is now my girlfriend. I am such a rizzler.
+
 ## Technologies Used
 
 - **HTML**: For the structure of the website.
