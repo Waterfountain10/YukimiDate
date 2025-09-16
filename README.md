@@ -4,6 +4,8 @@ This is a simple and charming website created to invite my friend Yukimi on a pi
 
 *Edit: she is now my girlfriend. I am such a rizzler.*
 
+*Edit Again: she is not my girlfriend anymore.*
+
 ## Technologies Used
 
 - **HTML**: For the structure of the website.
